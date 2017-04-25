@@ -1,6 +1,6 @@
 # Octave.vim
 
-*Github version of: http://www.vim.org/scripts/script.php?script_id=3600* + auto indent
+*Github version of: http://www.vim.org/scripts/script.php?script_id=3600 + auto indent*
 
 This file provides syntax highlighting for the GNU Octave programming language.
 
